@@ -8,7 +8,7 @@
   "title": "Example source",
   "collections": [
     {
-      "id": "bobv1",
+      "id": "hhkapv1",
       "manifest": "./collection.json"
     }
   ]
