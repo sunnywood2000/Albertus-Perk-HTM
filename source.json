@@ -1,0 +1,15 @@
+{
+  "id": "",
+  "organizationName": "Albertus Perk",
+  "curatorName": "Bob Houthuyzen",
+  "placeName": "Hilversum",
+  "countryName": "The Netherlands",
+  "countryCode": "NL",
+  "title": "Example source",
+  "collections": [
+    {
+      "id": "bobv1",
+      "manifest": "./collection.json"
+    }
+  ]
+}

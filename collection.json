@@ -1,4 +1,83 @@
 {
-  "property": "value",
-  "property2": "mijn value"
+  "id": "bobv2",
+  "title": "bobv2",
+  "description": "Collectie bobv2.",
+  "items": [
+    {
+      "id": "NL-HvsHHKAP-012655",
+      "title": "Duivenstraat - 11e woningbouwcomplex 1927-1928",
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012655.jpeg",
+      "license": "Archief Gooi en Vechtstreek",
+      "location": {
+        "lat": 52.224304,
+        "lon": 5.19631
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012655.jpeg",
+        "thumbnailUrl": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012655.jpeg"
+      },
+      "include": true,
+      "description": "De Duivestraat in 1950. 11e woningbouwcomplex 1927-1928 door architect Dudok. Op de achtergrond de Nassauschool aan de Merelstraat."
+    },
+    {
+      "id": "NL-HvsHHKAP-002421",
+      "title": "Oude Loswal",
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir5/NL-HvsHHKAP-002421.jpg",
+      "license": "HHK Albertus Perk",
+      "location": {
+        "lat": 52.223141,
+        "lon": 5.15598
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "./collectie folder/Tump_NL-HvsHHKAP-012655.jpg",
+        "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-012655.jpg"
+      },
+      "include": true,
+      "description": "Oude Loswal in 1901, kranen deels gesloopt in 1953. Foto vanaf de Hondenbrug. De afdruk vertoont aan de randen dubbel beeld, vermoedelijk omdat het afdruk raampje niet goed gesloten was en het fotopapier daardoor niet strak op de glasplaat lag."
+    },
+    {
+      "id": "NL-HvsHHKAP-012528",
+      "title": "Oude Torenstraat 1932",
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012528.png",
+      "license": "HHK Albertus Perk",
+      "location": {
+        "lat": 52.22437,
+        "lon": 5.170748
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012528.png",
+        "thumbnailUrl": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012528.png"
+      },
+      "include": true,
+      "description": "Ingang Ned. Herv. kerk aan de Oude Torenstraat in 1932"
+    },
+    {
+      "id": "NL-HvsHHKAP-012479",
+      "title": "Van Musschenbroekstraat - Kinderspeelplaats",
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012479.jpeg",
+      "license": "Archief Gooi en Vechtstreek",
+      "location": {
+        "lat": 52.225166,
+        "lon": 5.199256
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012479.jpeg",
+        "thumbnailUrl": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012479.jpeg"
+      },
+      "include": true,
+      "description": "Kinderspeelplaats aan de Van Musschenbroekstraat in 1951, tussen de Daltonstraat en de Weberstraat, onderdeel van het 19e gemeentelijke woningbouwcomplex uit 1947"
+    }
+  ]
 }
