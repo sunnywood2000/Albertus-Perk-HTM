@@ -78,6 +78,26 @@
       },
       "include": true,
       "description": "Kinderspeelplaats aan de Van Musschenbroekstraat in 1951, tussen de Daltonstraat en de Weberstraat, onderdeel van het 19e gemeentelijke woningbouwcomplex uit 1947"
+    },
+    {
+      "id": "NL-HvsHHKAP-011579",
+      "title": "Dudokpark 1 - Bezichtiging Raadhuis - toegangskaartjes",
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir7/NL-HvsHHKAP-011579.jpg",
+      "license": "Schenking H. Sprong",
+      "location": {
+        "lat": 52.22937800,
+        "lon": 5.16980100
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "./collectie folder/Tump_NL-HvsHHKAP-011579.jpg",
+        "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-011579.jpg"
+      },
+      "include": true,
+      "description": "Setje van 5 toegangskaartjes voor het bezichtigen van het raadhuis. Soms met en soms zonder toren. Verschillende prijzen die waarschijnlijk aantonen dat de kaartjes meerdere jaren beslaan. En voor verschillende doelgroepen zoals scholieren en gezelschappen. Op verlangen te tonen!"
+
     }
   ]
 }
