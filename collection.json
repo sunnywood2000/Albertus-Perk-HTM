@@ -98,6 +98,48 @@
       "include": true,
       "description": "Setje van 5 toegangskaartjes voor het bezichtigen van het raadhuis. Soms met en soms zonder toren. Verschillende prijzen die waarschijnlijk aantonen dat de kaartjes meerdere jaren beslaan. En voor verschillende doelgroepen zoals scholieren en gezelschappen. Op verlangen te tonen!"
 
+    },
+    {
+      "id": "NL-HvsHHKAP-009425",
+      "title": "De Razzia van Hilversum, monument voor dwangarbeiders",
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir3/NL-HvsHHKAP-009425.png",
+      "license": "Schenking H. Sprong",
+      "location": {
+        "lat": 52.214373,
+        "lon": 5.190566
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "./collectie folder/Tump_NL-HvsHHKAP-009425.jpg",
+        "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-009425.jpg"
+      },
+      "include": true,
+      "description": "Monument voor de mannen en jongens uit Hilversum en omliggende plaatsen die tijdens de Tweede Wereldoorlog als dwangarbeiders naar Duitsland werden gestuurd. Veel van hen hebben het einde van de oorlog niet meer meegemaakt. Hilversum Sportpark. Razzia van Hilversum, Nederland"
+
+    },
+    {
+      "id": "NL-HvsHHKAP-011579",
+      "title": "Dudokpark 1 - Bezichtiging Raadhuis - toegangskaartjes",
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir7/NL-HvsHHKAP-011579.jpg",
+      "license": "Schenking H. Sprong",
+      "location": {
+        "lat": 52.22937800,
+        "lon": 5.16980100
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "./collectie folder/Tump_NL-HvsHHKAP-011579.jpg",
+        "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-011579.jpg"
+      },
+      "include": true,
+      "description": "Setje van 5 toegangskaartjes voor het bezichtigen van het raadhuis. Soms met en soms zonder toren. Verschillende prijzen die waarschijnlijk aantonen dat de kaartjes meerdere jaren beslaan. En voor verschillende doelgroepen zoals scholieren en gezelschappen. Op verlangen te tonen!"
+
     }
   ]
+
+  
 }
