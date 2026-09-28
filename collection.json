@@ -138,7 +138,28 @@
       "include": true,
       "description": "Sportpark. De oude atletiekbaan gebouwd door Dudok in 1928"
 
+    },
+    {
+      "id": "NL-HvsHHKAP-013155",
+      "title": "Utrechtseweg 71",
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir10/NL-HvsHHKAP-013155.jpg",
+      "license": "Collectie Hilversum",
+      "location": {
+        "lat": 52.208767,
+        "lon": 5.181832
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg",
+        "thumbnailUrl": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg"
+      },
+      "include": true,
+      "description": "Utrechtseweg 71 in 1950, Villa de Wikke (1926) woonhuis van architect Dudok"
+
     }
+
   ]
 
   
