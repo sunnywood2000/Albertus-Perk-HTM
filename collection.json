@@ -158,6 +158,26 @@
       "include": true,
       "description": "Utrechtseweg 71 in 1950, Villa de Wikke (1926) woonhuis van architect Dudok"
 
+    },
+    {
+      "id": "NL-HvsHHKAP-013033",
+      "title": "Geuzenweg 084 - Buurthuis 'De Geus'",
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir10/NL-HvsHHKAP-013155.jpg",
+      "license": "Archief Gooi en Vechtstreek",
+      "location": {
+        "lat": 52.229361,
+        "lon": 5.183727
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+        "thumbnailUrl": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg"
+      },
+      "include": true,
+      "description": "Buurthuis 'De Geus' aan de Geuzenweg- voorheen School met de Bijbel in 1986"
+
     }
 
   ]
