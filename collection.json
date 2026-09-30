@@ -6,6 +6,7 @@
     {
       "id": "NL-HvsHHKAP-012655",
       "title": "Duivenstraat - 11e woningbouwcomplex 1927-1928",
+      "date": 1950,
       "type": "site",
       "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012655.jpeg",
       "license": "Archief Gooi en Vechtstreek",
@@ -20,11 +21,12 @@
         "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-012655.jpg"
       },
       "include": true,
-      "description": "De Duivestraat in 1950. 11e woningbouwcomplex 1927-1928 door architect Dudok. Op de achtergrond de Nassauschool aan de Merelstraat."
+      "description": "De Duivenstraat in 1950. 11e woningbouwcomplex 1927-1928 door architect Dudok. Op de achtergrond de Nassauschool aan de Merelstraat."
     },
     {
       "id": "NL-HvsHHKAP-002421",
       "title": "Oude Loswal",
+      "date": 1901,
       "type": "site",
       "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir5/NL-HvsHHKAP-002421.jpg",
       "license": "HHK Albertus Perk",
@@ -44,6 +46,7 @@
     {
       "id": "NL-HvsHHKAP-012528",
       "title": "Oude Torenstraat 1932",
+      "date": 1932,
       "type": "site",
       "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012528.png",
       "license": "HHK Albertus Perk",
@@ -63,6 +66,7 @@
     {
       "id": "NL-HvsHHKAP-012479",
       "title": "Van Musschenbroekstraat - Kinderspeelplaats",
+      "date": 1951,
       "type": "site",
       "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012479.jpeg",
       "license": "Archief Gooi en Vechtstreek",
@@ -82,6 +86,7 @@
     {
       "id": "NL-HvsHHKAP-011579",
       "title": "Dudokpark 1 - Bezichtiging Raadhuis - toegangskaartjes",
+      "date": 1957,
       "type": "site",
       "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir7/NL-HvsHHKAP-011579.jpg",
       "license": "Schenking H. Sprong",
@@ -102,6 +107,7 @@
     {
       "id": "NL-HvsHHKAP-009425",
       "title": "De Razzia van Hilversum, monument voor dwangarbeiders",
+      "date": 1944,
       "type": "site",
       "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir3/NL-HvsHHKAP-009425.png",
       "license": "Schenking H. Sprong",
@@ -122,6 +128,7 @@
     {
       "id": "NL-HvsHHKAP-011579",
       "title": "Sportpark",
+      "date": 1928,
       "type": "site",
       "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir14/NL-HvsHHKAP-006818.jpg",
       "license": "Schenking H. Sprong",
@@ -142,6 +149,7 @@
     {
       "id": "NL-HvsHHKAP-013155",
       "title": "Utrechtseweg 71",
+      "date": 1950,
       "type": "site",
       "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir10/NL-HvsHHKAP-013155.jpg",
       "license": "Collectie Hilversum",
@@ -162,6 +170,7 @@
     {
       "id": "NL-HvsHHKAP-013033",
       "title": "Geuzenweg 084 - Buurthuis 'De Geus'",
+      "date": 1986,
       "type": "site",
       "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir10/NL-HvsHHKAP-013155.jpg",
       "license": "Archief Gooi en Vechtstreek",
@@ -182,6 +191,7 @@
     {
       "id": "NL-HvsHHKAP-013242",
       "title": "Jonkerweg - 1897",
+      "date": 1897,
       "type": "site",
       "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir11/NL-HvsHHKAP-013242.jpg",
       "license": "HHK Albertus Perk",
