@@ -178,6 +178,26 @@
       "include": true,
       "description": "Buurthuis 'De Geus' aan de Geuzenweg- voorheen School met de Bijbel in 1986"
 
+    },    
+    {
+      "id": "NL-HvsHHKAP-013242",
+      "title": "Jonkerweg - 1897",
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir11/NL-HvsHHKAP-013242.jpg",
+      "license": "HHK Albertus Perk",
+      "location": {
+        "lat": 52.228764,
+        "lon": 5.158617
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg",
+        "thumbnailUrl": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg"
+      },
+      "include": true,
+      "description": "Straatnaam beschrijving van de Jonkerweg"
+
     }
 
   ]
