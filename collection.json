@@ -208,6 +208,28 @@
       "include": true,
       "description": "Straatnaam beschrijving van de Jonkerweg"
 
+    },
+       
+    {
+      "id": "NL-HvsHHKAP-013224",
+      "title": "Graaf Florislaan 30a - Politieschool",
+      "date": 1930,
+      "type": "site",
+      "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir11/NL-HvsHHKAP-013224.jpeg",
+      "license": "Archief Gooi en Vechtstreek",
+      "location": {
+        "lat": 52.231076,
+        "lon": 5.170911
+      },
+      "tags": [],
+      "media": {
+        "type": "image",
+        "url": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+        "thumbnailUrl": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg"
+      },
+      "include": true,
+      "description": "De Politieschool aan de Graaf Florislaan 30a in 1930. Nederlandse Model Politieschool. Les in EHBO"
+
     }
 
   ]
