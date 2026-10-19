@@ -1,0 +1,369 @@
+{
+  "status": "PASS",
+  "scope": "Canonical compact v2 structural/semantic validation and real reader integration; remote media qualification reported separately",
+  "documents": [
+    {
+      "path": "org/albertus-perk/source.json",
+      "validation": {
+        "structural": true,
+        "semantic": "bounded-profile-only",
+        "semanticSupported": true,
+        "fullJsonLd": false
+      },
+      "diagnostics": [
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "WARNING",
+          "code": "publisher-missing",
+          "path": "/publisher",
+          "message": "Publisher is strongly recommended."
+        }
+      ]
+    },
+    {
+      "path": "org/albertus-perk/hhkap1/collection.json",
+      "validation": {
+        "structural": true,
+        "semantic": "bounded-profile-only",
+        "semanticSupported": true,
+        "fullJsonLd": false
+      },
+      "diagnostics": [
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/0/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/0/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/0/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/0/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/1/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/1/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/1/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/1/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/2/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/2/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/2/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/2/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/3/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/3/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/3/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/3/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/4/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/4/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/4/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/4/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/5/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/5/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/5/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/5/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/6/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/6/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/6/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/6/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/7/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/7/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/7/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/7/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/8/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/8/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/8/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/8/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/9/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/9/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/9/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/9/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/10/identifier",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/10/additionalProperty",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "INFO",
+          "code": "type-preserved",
+          "path": "/hasPart/10/additionalProperty/0/@type",
+          "message": "Type preserved; no closed resource class hierarchy."
+        },
+        {
+          "severity": "INFO",
+          "code": "extension-preserved",
+          "path": "/hasPart/10/additionalProperty/0/propertyID",
+          "message": "Extension remains in the canonical document."
+        },
+        {
+          "severity": "WARNING",
+          "code": "publisher-missing",
+          "path": "/publisher",
+          "message": "Publisher is strongly recommended."
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "legacyMembers": 11,
+    "legacyUniqueIds": 10,
+    "migratedMembers": 11,
+    "migratedUniqueIds": 11,
+    "relatedImages": 11,
+    "sources": 1,
+    "collections": 1,
+    "mapMembers": 11,
+    "temporalMembers": 11,
+    "previewReferences": 11
+  },
+  "reader": {
+    "requests": 2,
+    "failures": [],
+    "conflicts": [],
+    "combinedWithHilversum": {
+      "members": 809,
+      "collections": 3,
+      "failures": [],
+      "conflicts": []
+    }
+  },
+  "checks": {
+    "canonicalSchemaAndContextHashesMatch": true,
+    "allRecordsCompared": true,
+    "orderPreserved": true,
+    "relativeReferencesResolved": true,
+    "originalFilesUnchanged": true,
+    "referenceFilesUnchanged": true
+  },
+  "media": {
+    "localAssets": 7,
+    "remoteHeadPassed": 11,
+    "remoteHeadTotal": 11
+  },
+  "limitations": [
+    "Bounded canonical profile, not unrestricted JSON-LD validation",
+    "No browser image decoding or new published v2 endpoint test",
+    "External Geuzenweg catalogue mismatch and ambiguous licence labels retained for review"
+  ]
+}

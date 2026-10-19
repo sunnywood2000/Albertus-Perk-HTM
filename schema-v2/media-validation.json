@@ -1,0 +1,274 @@
+{
+  "checkedAt": "2026-10-19T08:53:36.158Z",
+  "method": "Exact local path and JPEG signature checks for seven assets; HEAD of eleven unique public media URLs, no remote image bodies downloaded",
+  "localAssets": 7,
+  "referenceOccurrences": 22,
+  "mappings": [
+    {
+      "index": 0,
+      "field": "contentUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-012655.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-012655.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012655.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-012655.jpg"
+    },
+    {
+      "index": 0,
+      "field": "thumbnailUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-012655.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-012655.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012655.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-012655.jpg"
+    },
+    {
+      "index": 1,
+      "field": "contentUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-002421.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-002421.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-002421.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-002421.jpg"
+    },
+    {
+      "index": 1,
+      "field": "thumbnailUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-002421.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-002421.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-002421.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-002421.jpg"
+    },
+    {
+      "index": 2,
+      "field": "contentUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-012528.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-012528.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012528.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-012528.jpg"
+    },
+    {
+      "index": 2,
+      "field": "thumbnailUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-012528.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-012528.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012528.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-012528.jpg"
+    },
+    {
+      "index": 3,
+      "field": "contentUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-012479.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-012479.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012479.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-012479.jpg"
+    },
+    {
+      "index": 3,
+      "field": "thumbnailUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-012479.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-012479.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012479.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-012479.jpg"
+    },
+    {
+      "index": 4,
+      "field": "contentUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-011579.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-011579.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-011579.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-011579.jpg"
+    },
+    {
+      "index": 4,
+      "field": "thumbnailUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-011579.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-011579.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-011579.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-011579.jpg"
+    },
+    {
+      "index": 5,
+      "field": "contentUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-009425.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-009425.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-009425.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-009425.jpg"
+    },
+    {
+      "index": 5,
+      "field": "thumbnailUrl",
+      "original": "./collectie folder/Tump_NL-HvsHHKAP-009425.jpg",
+      "migrated": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-009425.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-009425.jpg",
+      "localFile": "collectie folder/Tump_NL-HvsHHKAP-009425.jpg"
+    },
+    {
+      "index": 6,
+      "field": "contentUrl",
+      "original": "./collectie folder/Temp_NL-HvsHHKAP-006818.jpg",
+      "migrated": "../../../../collectie%20folder/Temp_NL-HvsHHKAP-006818.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Temp_NL-HvsHHKAP-006818.jpg",
+      "localFile": "collectie folder/Temp_NL-HvsHHKAP-006818.jpg"
+    },
+    {
+      "index": 6,
+      "field": "thumbnailUrl",
+      "original": "./collectie folder/Temp_NL-HvsHHKAP-006818.jpg",
+      "migrated": "../../../../collectie%20folder/Temp_NL-HvsHHKAP-006818.jpg",
+      "resolved": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Temp_NL-HvsHHKAP-006818.jpg",
+      "localFile": "collectie folder/Temp_NL-HvsHHKAP-006818.jpg"
+    },
+    {
+      "index": 7,
+      "field": "contentUrl",
+      "original": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg",
+      "migrated": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg",
+      "resolved": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg",
+      "localFile": null
+    },
+    {
+      "index": 7,
+      "field": "thumbnailUrl",
+      "original": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg",
+      "migrated": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg",
+      "resolved": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg",
+      "localFile": null
+    },
+    {
+      "index": 8,
+      "field": "contentUrl",
+      "original": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+      "migrated": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+      "resolved": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+      "localFile": null
+    },
+    {
+      "index": 8,
+      "field": "thumbnailUrl",
+      "original": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+      "migrated": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+      "resolved": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+      "localFile": null
+    },
+    {
+      "index": 9,
+      "field": "contentUrl",
+      "original": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg",
+      "migrated": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg",
+      "resolved": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg",
+      "localFile": null
+    },
+    {
+      "index": 9,
+      "field": "thumbnailUrl",
+      "original": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg",
+      "migrated": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg",
+      "resolved": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg",
+      "localFile": null
+    },
+    {
+      "index": 10,
+      "field": "contentUrl",
+      "original": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+      "migrated": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+      "resolved": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+      "localFile": null
+    },
+    {
+      "index": 10,
+      "field": "thumbnailUrl",
+      "original": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+      "migrated": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+      "resolved": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+      "localFile": null
+    }
+  ],
+  "remoteChecks": [
+    {
+      "url": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012655.jpg",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012655.jpg",
+      "contentType": "image/jpeg",
+      "cors": "*",
+      "ok": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-002421.jpg",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-002421.jpg",
+      "contentType": "image/jpeg",
+      "cors": "*",
+      "ok": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012528.jpg",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012528.jpg",
+      "contentType": "image/jpeg",
+      "cors": "*",
+      "ok": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012479.jpg",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-012479.jpg",
+      "contentType": "image/jpeg",
+      "cors": "*",
+      "ok": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-011579.jpg",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-011579.jpg",
+      "contentType": "image/jpeg",
+      "cors": "*",
+      "ok": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-009425.jpg",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Tump_NL-HvsHHKAP-009425.jpg",
+      "contentType": "image/jpeg",
+      "cors": "*",
+      "ok": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Temp_NL-HvsHHKAP-006818.jpg",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collectie%20folder/Temp_NL-HvsHHKAP-006818.jpg",
+      "contentType": "image/jpeg",
+      "cors": "*",
+      "ok": true
+    },
+    {
+      "url": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg",
+      "status": 200,
+      "finalUrl": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg",
+      "contentType": "image/jpeg",
+      "cors": null,
+      "ok": true
+    },
+    {
+      "url": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+      "status": 200,
+      "finalUrl": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+      "contentType": "image/jpeg",
+      "cors": null,
+      "ok": true
+    },
+    {
+      "url": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg",
+      "status": 200,
+      "finalUrl": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg",
+      "contentType": "image/jpeg",
+      "cors": null,
+      "ok": true
+    },
+    {
+      "url": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+      "status": 200,
+      "finalUrl": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+      "contentType": "image/jpeg",
+      "cors": null,
+      "ok": true
+    }
+  ]
+}

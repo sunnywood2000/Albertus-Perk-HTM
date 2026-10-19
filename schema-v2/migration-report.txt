@@ -1,0 +1,188 @@
+Albertus Perk — schema-v2 migration and validation
+2026-10-19. Local migration complete; no commit, push, publication or TimeMap change.
+
+RESULT
+1 Source, 1 Collection, 11 inline CreativeWork members, 11 related ImageObjects.
+Original members: 11; migrated members: 11. Original unique IDs: 10; migrated
+semantic member IDs: 11. All 11 retain coordinates, year-precision historical
+coverage and media previews. Original array order retained.
+
+Reader inputs:
+  org/albertus-perk/source.json
+  org/albertus-perk/hhkap1/collection.json
+Other files in this directory are migration/review evidence, not reader inputs.
+Original files (including all seven JPEGs) remain unchanged; no media copies made.
+The directory follows Hilversum's org/<organization>/<collection>/ convention.
+
+CANONICAL OWNERS AND GOVERNANCE
+No AGENTS.md or additional rules exist in this repository or its ancestor paths.
+The sibling old open-collections repository has UI-focused governance; it is not
+the current schema-v2 owner. The PB frontend/backend AGENTS and relevant schema,
+preservation, identity, temporal and package guidance were inspected read-only.
+No changes were made to either application repository or the Hilversum dataset.
+
+Canonical contracts are in pb-backend-monorepo:
+  src/tenants/opencollections/governance/architecture/schema/v2/
+  resources/{source,collection}/2.0/{context.jsonld,schema.json}
+Runtime validation is the actual public lib-collections API in pb-frontend-monorepo:
+  src/tenants/opencollections/libs/lib-collections/src/index.js
+  canonicalDocument.parseDocument and collectionResults.loadCollectionSet
+Its profile-resources.js pins the backend contracts. The four schema/context file
+hashes are checked against fixtures/provenance.json, not assumed from a revision.
+This is the canonical compact-profile validator, not full arbitrary JSON-LD expansion.
+
+Reused the existing parser, projections, aggregation and schema resources unchanged.
+Inspected historical-source-restoration/adopt-legacy.mjs: its converter is pinned
+to a different 21-record Wikimedia input and rejects dates. It cannot safely be
+run on Albertus Perk. The local converter uses its preservation pattern and the
+Hilversum inline-member structure, with explicit mappings for this input.
+
+IDENTITY AND REFERENCES
+Legacy IDs are not absolute URIs and the Source ID is empty. Deliberately adopt
+the existing public original source.json and collection.json URIs as fixed durable
+Source/Collection identities. These remain unchanged if delivery later moves:
+  https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/source.json
+  https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json
+Member identity = fixed Collection URI + # + existing catalogue ID.
+Related image identity = member identity + -image (the reference dataset also
+derives related-image identities from member identities). These are explicit URI
+encodings of legacy identity, not minted registry IDs or claims of new resolvers.
+The original identifier is retained in identifier and complete legacy evidence.
+
+Source alias hhkapv1 is reconciled through its actual ./collection.json reference
+to Collection hhkap1, not treated as a second collection. Both labels survive.
+Older frontend notes describing four records and bobv1/bobv2 are stale: the current
+input has 11 records and hhkapv1/hhkap1. Current files are the migration authority.
+
+Sportpark repeats NL-HvsHHKAP-011579, used by the Raadhuis tickets. Its source URL
+AND local image filename contain NL-HvsHHKAP-006818. That existing catalogue key
+supplies Sportpark's semantic fragment; no arbitrary suffix or new catalogue ID
+was invented. Original id NL-HvsHHKAP-011579 remains in identifier and legacy.record.
+identity-map.json records the original array position and reconciliation evidence.
+
+FIELD MAPPING
+Source organizationName -> name; original title (Example source), empty id,
+curatorName, place/country and collection aliases -> legacy.sourceMetadata.
+Collection id -> identifier; title -> name; description -> description;
+items -> hasPart. Source hasPart uses the same Collection @id and an explicit
+relative url ./hhkap1/collection.json, as required by the canonical reader.
+Member title/description -> name/description; id -> identifier; tags -> keywords.
+Numeric date -> temporalCoverage as a four-digit year, not dateCreated or a day.
+location lat/lon -> contentLocation/Place/geo/GeoCoordinates latitude/longitude.
+source -> url and isBasedOn.url, verbatim, including query parameters.
+media -> related ImageObject/contentUrl/thumbnailUrl.
+All original item fields also survive in schema.org additionalProperty with
+PropertyValue propertyID=legacy.record and JSON text value. These propertyID
+labels are evidence labels, not new JSON-LD vocabulary properties.
+Legacy type=site and include=true are retained there. All records are included.
+Institution/donation labels in license remain verbatim in legacy.record; no
+legal licence, creator, rights holder or publisher role is inferred from them.
+No original JSON field is silently discarded. No additional records were found
+in the text files or media directory.
+
+MEDIA
+Seven local assets remain in ../collectie folder relative to schema-v2's parent.
+Collection URLs are correctly rebased to ../../../../collectie%20folder/<file>.
+Four original Pinterest image URLs remain exactly as supplied. No placeholders
+or replacement full-size images are introduced. Both media fields are retained.
+All 22 media references resolve to 11 distinct URLs. All 11 returned HTTP 200 and
+image/jpeg to HEAD. The seven local files exist with exact case and JPEG signatures.
+GitHub image responses advertise ACAO '*'; Pinterest HEAD responses do not. This
+does not prevent ordinary image embedding but does not qualify canvas/fetch use.
+HEAD proves availability/type, not image content correctness or browser decoding.
+media-validation.json contains each mapping, response and timestamp.
+Publish the repository topology intact. Copying only schema-v2 to a different
+hosting prefix would require preserving/rebasing these seven relative asset URLs.
+
+VALIDATION
+Run from repository root: node schema-v2/migrate-and-validate.mjs
+Requires Node and the existing PB frontend/backend and HTM repositories. Override
+OC_FRONTEND_ROOT, OC_BACKEND_ROOT and HTM_V2_ROOT if they are elsewhere.
+This regenerates data/evidence locally and performs bounded remote HEAD requests.
+
+PASS: both documents satisfy canonical compact structure and supported semantics;
+zero ERROR diagnostics. Only publisher-missing WARNING on each root. INFO entries
+describe preserved schema.org properties outside the reader's projection subset.
+PASS: Source loads Collection in two document requests; 11 results, zero failures,
+zero conflicts. All title/description, date, coordinates, original IDs, source URLs,
+legacy field values, media projection targets and ordering compared for all records.
+PASS: combined with the two unchanged Hilversum collections: 809 members,
+3 Collections, zero failures/conflicts (798 original HTM + 11 Albertus Perk).
+PASS: pre/post SHA-256 inventories for original repository files and the entire
+Hilversum reference schema-v2 tree match. Git shows only new schema-v2/ content.
+Representative before/after records (Duivenstraat, tickets, Sportpark, Geuzenweg,
+Politieschool) are included in migration-evidence.json with complete values.
+
+REMAINING DATA ISSUES
+1. Geuzenweg NL-HvsHHKAP-013033 source URL targets NL-HvsHHKAP-013155, also used by
+   Utrechtseweg. Retained unchanged; a corrected catalogue link is not established.
+2. Legacy license labels require interpretation by the collection owner before
+   assigning standard legal rights/licence or publisher metadata. No labels lost.
+3. Source's generic title survives as evidence; display uses Albertus Perk.
+4. Sportpark reconciliation is evidence-backed and recorded, but its original
+   duplicate identifier intentionally remains available for provenance review.
+No broken internal references or unresolved local media paths remain.
+
+ONLINE PUBLICATION PROPOSAL (NOT YET PUBLISHED)
+Repository remote is github.com/sunnywood2000/Albertus-Perk-HTM, branch main.
+Following its already working raw GitHub delivery, proposed public URLs are:
+Source:
+https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/schema-v2/org/albertus-perk/source.json
+Collection:
+https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/schema-v2/org/albertus-perk/hhkap1/collection.json
+These become candidates only after commit/push/publication. No claim that these
+new v2 endpoints are available yet. Their relative assets already respond online.
+
+CURRENT HILVERSUM / TIMEMAP HOSTING
+The public DEV registration is:
+https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/registration.json
+GET verified HTTP 200 application/json and ACAO '*'. All three registered Source
+documents also return 200 and ACAO '*': Prenten, Dudok and restored Wikimedia.
+online-integration.json records the actual responses' metadata and registration.
+This is content-addressed static publication, not the old HTM README's dev/live
+website naming and not evidence of a production TimeMap deployment.
+
+In PB frontend projects/2026_48-open_collections/timemap-first-dev/:
+  registration.json = three existing absolute Source URLs;
+  viewer.json = hosted oc.timemap-hosted.v1 with registrationUrl above;
+  delivery-manifest.json = hashes, object keys and immutable dataset revision;
+  deliver.mjs = verifies payloads; --publish writes explicitly authorized objects.
+These files were inspected, not run or edited. Other release configurations may
+point at the same registration; re-read the active release at integration time.
+
+EXACT POST-PUBLICATION TIMEMAP CHANGE
+Add this entry to embeddedSourceCatalog, preserving all existing entries/options:
+{
+  "id": "albertus-perk-source",
+  "label": "Albertus Perk",
+  "sourceType": "source.json",
+  "sourceUrl": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/schema-v2/org/albertus-perk/source.json"
+}
+albertus-perk-source reuses the historical TimeMap registration alias; it is not
+the Source semantic ID. No includeCollections filter is needed for this one
+Collection. timemap-registration.proposed.json is a complete reviewable candidate
+based on the fetched three-entry DEV registration, with only this entry appended.
+It is stored here only; no application configuration was changed.
+
+Hosted integration: publish that registration under a NEW immutable revision/key;
+do not overwrite the existing 5651536... object. Point the host-owned viewer
+configuration's registrationUrl to the newly published registration, then follow
+the established release activation workflow. Retain existing Source URLs and all
+basemap/terrain/buildings/ground/trees/parcels settings. A future content-addressed
+registration URL cannot be named honestly until the delivery payload is finalized.
+No reader/parser or TimeMap component change is required.
+
+Local integration, if desired later: append the same absolute-URL entry to
+projects/2026_48-open_collections/hilversum-v2-registration.json. Its existing
+hilversum-v2-server.mjs preserves absolute URLs through new URL(..., origin).
+No local dataset mount is needed for this public Source. development-catalog.js
+can keep http://localhost:3018/htm-schema-v2/registration.json unchanged.
+TimeMap index.html/hilversum.html selects host registrationUrl for hosted releases
+or DEVELOPMENT_REGISTRATION_URL for local composition. hosted-configuration.js
+requires HTTPS registration delivery; the proposed Source uses HTTPS as well.
+
+After publication, verify v2 GETs/CORS and load the revised registration in the
+browser. Existing three-collection dataset has 819 members; adding these 11
+should yield 830 before any view filters. This is an expected integration count,
+not a claim of completed online activation. New endpoint/browser tests await
+publication. Stop boundary respected: no commit, push, deploy or TimeMap edit.

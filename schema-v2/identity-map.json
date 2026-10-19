@@ -1,0 +1,102 @@
+{
+  "identityPolicy": "Fixed original public document URIs deliberately adopted as durable semantic identities; retain them if delivery moves. Member fragments use existing catalogue IDs, including the evidence-backed Sportpark correction. No OC registry identity minted.",
+  "source": {
+    "originalId": "",
+    "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/source.json"
+  },
+  "collection": {
+    "originalId": "hhkap1",
+    "sourceReferenceId": "hhkapv1",
+    "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json"
+  },
+  "members": [
+    {
+      "index": 0,
+      "originalId": "NL-HvsHHKAP-012655",
+      "evidenceId": "NL-HvsHHKAP-012655",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-012655",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-012655-image",
+      "reason": "Preserved catalogue identifier"
+    },
+    {
+      "index": 1,
+      "originalId": "NL-HvsHHKAP-002421",
+      "evidenceId": "NL-HvsHHKAP-002421",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-002421",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-002421-image",
+      "reason": "Preserved catalogue identifier"
+    },
+    {
+      "index": 2,
+      "originalId": "NL-HvsHHKAP-012528",
+      "evidenceId": "NL-HvsHHKAP-012528",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-012528",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-012528-image",
+      "reason": "Preserved catalogue identifier"
+    },
+    {
+      "index": 3,
+      "originalId": "NL-HvsHHKAP-012479",
+      "evidenceId": "NL-HvsHHKAP-012479",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-012479",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-012479-image",
+      "reason": "Preserved catalogue identifier"
+    },
+    {
+      "index": 4,
+      "originalId": "NL-HvsHHKAP-011579",
+      "evidenceId": "NL-HvsHHKAP-011579",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-011579",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-011579-image",
+      "reason": "Preserved catalogue identifier"
+    },
+    {
+      "index": 5,
+      "originalId": "NL-HvsHHKAP-009425",
+      "evidenceId": "NL-HvsHHKAP-009425",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-009425",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-009425-image",
+      "reason": "Preserved catalogue identifier"
+    },
+    {
+      "index": 6,
+      "originalId": "NL-HvsHHKAP-011579",
+      "evidenceId": "NL-HvsHHKAP-006818",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-006818",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-006818-image",
+      "reason": "Duplicate reconciled from matching original source URL and media filename; original ID retained in identifier and legacy.record"
+    },
+    {
+      "index": 7,
+      "originalId": "NL-HvsHHKAP-013155",
+      "evidenceId": "NL-HvsHHKAP-013155",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013155",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013155-image",
+      "reason": "Preserved catalogue identifier"
+    },
+    {
+      "index": 8,
+      "originalId": "NL-HvsHHKAP-013033",
+      "evidenceId": "NL-HvsHHKAP-013033",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013033",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013033-image",
+      "reason": "Preserved catalogue identifier"
+    },
+    {
+      "index": 9,
+      "originalId": "NL-HvsHHKAP-013242",
+      "evidenceId": "NL-HvsHHKAP-013242",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013242",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013242-image",
+      "reason": "Preserved catalogue identifier"
+    },
+    {
+      "index": 10,
+      "originalId": "NL-HvsHHKAP-013224",
+      "evidenceId": "NL-HvsHHKAP-013224",
+      "semanticId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013224",
+      "imageId": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013224-image",
+      "reason": "Preserved catalogue identifier"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "checkedAt": "2026-10-19T08:52:01.871Z",
+  "registrationUrl": "https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/registration.json",
+  "status": 200,
+  "contentType": "application/json",
+  "cors": "*",
+  "currentRegistration": {
+    "id": "hilversum-schema-v2-local",
+    "embeddedSourceCatalog": [
+      {
+        "id": "hilversum-prenten-v2-local",
+        "label": "Collectie Hilversum — Prenten",
+        "sourceType": "source.json",
+        "sourceUrl": "https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/org/collectie-hilversum/source.json"
+      },
+      {
+        "id": "hilversum-dudok-v2-local",
+        "label": "Dudok Architectuur Centrum — Locaties",
+        "sourceType": "source.json",
+        "sourceUrl": "https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/org/dudok-architectuur-centrum/source.json"
+      },
+      {
+        "id": "open-collections-restored-v2-local",
+        "label": "Open Collections — Wikimedia",
+        "sourceType": "source.json",
+        "sourceUrl": "https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/org/open-collections/source.json",
+        "options": {
+          "includeCollections": [
+            "https://opencollections.org/id/collections/01M52PCB6DMBJH7AS1J5DXBETQ"
+          ]
+        }
+      }
+    ]
+  },
+  "sourceChecks": [
+    {
+      "url": "https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/org/collectie-hilversum/source.json",
+      "status": 200,
+      "cors": "*",
+      "semanticId": "https://htm-data.example/id/sources/collectie-hilversum",
+      "collections": [
+        {
+          "@id": "https://htm-data.example/id/collections/collectie-hilversum/prenten",
+          "@type": "Collection",
+          "name": "Collectie Hilversum",
+          "url": "./prenten/collection.json"
+        }
+      ]
+    },
+    {
+      "url": "https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/org/dudok-architectuur-centrum/source.json",
+      "status": 200,
+      "cors": "*",
+      "semanticId": "https://htm-data.example/id/sources/dudok-architectuur-centrum",
+      "collections": [
+        {
+          "@id": "https://htm-data.example/id/collections/dudok-architectuur-centrum/locaties",
+          "@type": "Collection",
+          "name": "HTM Dudok Architectuur Centrum - Locaties",
+          "url": "./locaties/collection.json"
+        }
+      ]
+    },
+    {
+      "url": "https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/org/open-collections/source.json",
+      "status": 200,
+      "cors": "*",
+      "semanticId": "https://opencollections.org/id/sources/01M52PCB6DR0J406H1CENVSBZW",
+      "collections": [
+        {
+          "@id": "https://opencollections.org/id/collections/01M52PCB6DMBJH7AS1J5DXBETQ",
+          "@type": "Collection",
+          "name": "Hilversum (Wikimedia Commons)",
+          "url": "./hilversum-wikimedia/collection.json"
+        }
+      ]
+    }
+  ],
+  "proposedEntry": {
+    "id": "albertus-perk-source",
+    "label": "Albertus Perk",
+    "sourceType": "source.json",
+    "sourceUrl": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/schema-v2/org/albertus-perk/source.json"
+  },
+  "publicationStatus": "PROPOSED ONLY; v2 files not committed or published"
+}

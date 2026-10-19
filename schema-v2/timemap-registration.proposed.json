@@ -1,0 +1,34 @@
+{
+  "id": "hilversum-schema-v2-local",
+  "embeddedSourceCatalog": [
+    {
+      "id": "hilversum-prenten-v2-local",
+      "label": "Collectie Hilversum — Prenten",
+      "sourceType": "source.json",
+      "sourceUrl": "https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/org/collectie-hilversum/source.json"
+    },
+    {
+      "id": "hilversum-dudok-v2-local",
+      "label": "Dudok Architectuur Centrum — Locaties",
+      "sourceType": "source.json",
+      "sourceUrl": "https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/org/dudok-architectuur-centrum/source.json"
+    },
+    {
+      "id": "open-collections-restored-v2-local",
+      "label": "Open Collections — Wikimedia",
+      "sourceType": "source.json",
+      "sourceUrl": "https://dev.productbuilder.cloud/tenants/opencollections/data/hilversum-v2/5651536e7802bc56343172d91d5e6389ba8bc28d7f9214019824cf60d44b5724/org/open-collections/source.json",
+      "options": {
+        "includeCollections": [
+          "https://opencollections.org/id/collections/01M52PCB6DMBJH7AS1J5DXBETQ"
+        ]
+      }
+    },
+    {
+      "id": "albertus-perk-source",
+      "label": "Albertus Perk",
+      "sourceType": "source.json",
+      "sourceUrl": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/schema-v2/org/albertus-perk/source.json"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://opencollections.org/schema/source/2.0/context.jsonld",
+  "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/source.json",
+  "@type": "DataCatalog",
+  "name": "Albertus Perk",
+  "hasPart": [
+    {
+      "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json",
+      "@type": "Collection",
+      "name": "HHK.Albertus.Perk",
+      "url": "./hhkap1/collection.json"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "legacy.sourceMetadata",
+      "value": "{\"id\":\"\",\"organizationName\":\"Albertus Perk\",\"curatorName\":\"Bob Houthuyzen\",\"placeName\":\"Hilversum\",\"countryName\":\"The Netherlands\",\"countryCode\":\"NL\",\"title\":\"Example source\",\"collections\":[{\"id\":\"hhkapv1\",\"manifest\":\"./collection.json\"}]}"
+    }
+  ]
+}

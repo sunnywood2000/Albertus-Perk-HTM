@@ -1,0 +1,630 @@
+{
+  "originalSource": {
+    "id": "",
+    "organizationName": "Albertus Perk",
+    "curatorName": "Bob Houthuyzen",
+    "placeName": "Hilversum",
+    "countryName": "The Netherlands",
+    "countryCode": "NL",
+    "title": "Example source",
+    "collections": [
+      {
+        "id": "hhkapv1",
+        "manifest": "./collection.json"
+      }
+    ]
+  },
+  "originalCollection": {
+    "id": "hhkap1",
+    "title": "HHK.Albertus.Perk",
+    "description": "Collectie HHK Albertus Perk",
+    "items": [
+      {
+        "id": "NL-HvsHHKAP-012655",
+        "title": "Duivenstraat - 11e woningbouwcomplex 1927-1928",
+        "date": 1950,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012655.jpeg",
+        "license": "Archief Gooi en Vechtstreek",
+        "location": {
+          "lat": 52.22419,
+          "lon": 5.195395
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "./collectie folder/Tump_NL-HvsHHKAP-012655.jpg",
+          "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-012655.jpg"
+        },
+        "include": true,
+        "description": "De Duivenstraat in 1950. 11e woningbouwcomplex 1927-1928 door architect Dudok. Op de achtergrond de Nassauschool aan de Merelstraat."
+      },
+      {
+        "id": "NL-HvsHHKAP-002421",
+        "title": "Oude Loswal",
+        "date": 1901,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir5/NL-HvsHHKAP-002421.jpg",
+        "license": "HHK Albertus Perk",
+        "location": {
+          "lat": 52.223141,
+          "lon": 5.15598
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "./collectie folder/Tump_NL-HvsHHKAP-002421.jpg",
+          "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-002421.jpg"
+        },
+        "include": true,
+        "description": "Oude Loswal in 1901, kranen deels gesloopt in 1953. Foto vanaf de Hondenbrug. De afdruk vertoont aan de randen dubbel beeld, vermoedelijk omdat het afdruk raampje niet goed gesloten was en het fotopapier daardoor niet strak op de glasplaat lag."
+      },
+      {
+        "id": "NL-HvsHHKAP-012528",
+        "title": "Oude Torenstraat 1932",
+        "date": 1932,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012528.png",
+        "license": "HHK Albertus Perk",
+        "location": {
+          "lat": 52.22437,
+          "lon": 5.170748
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "./collectie folder/Tump_NL-HvsHHKAP-012528.jpg",
+          "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-012528.jpg"
+        },
+        "include": true,
+        "description": "Ingang Ned. Herv. kerk aan de Oude Torenstraat in 1932"
+      },
+      {
+        "id": "NL-HvsHHKAP-012479",
+        "title": "Van Musschenbroekstraat - Kinderspeelplaats",
+        "date": 1951,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012479.jpeg",
+        "license": "Archief Gooi en Vechtstreek",
+        "location": {
+          "lat": 52.225166,
+          "lon": 5.199256
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "./collectie folder/Tump_NL-HvsHHKAP-012479.jpg",
+          "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-012479.jpg"
+        },
+        "include": true,
+        "description": "Kinderspeelplaats aan de Van Musschenbroekstraat in 1951, tussen de Daltonstraat en de Weberstraat, onderdeel van het 19e gemeentelijke woningbouwcomplex uit 1947"
+      },
+      {
+        "id": "NL-HvsHHKAP-011579",
+        "title": "Dudokpark 1 - Bezichtiging Raadhuis - toegangskaartjes",
+        "date": 1957,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir7/NL-HvsHHKAP-011579.jpg",
+        "license": "Schenking H. Sprong",
+        "location": {
+          "lat": 52.229378,
+          "lon": 5.169801
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "./collectie folder/Tump_NL-HvsHHKAP-011579.jpg",
+          "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-011579.jpg"
+        },
+        "include": true,
+        "description": "Setje van 5 toegangskaartjes voor het bezichtigen van het raadhuis. Soms met en soms zonder toren. Verschillende prijzen die waarschijnlijk aantonen dat de kaartjes meerdere jaren beslaan. En voor verschillende doelgroepen zoals scholieren en gezelschappen. Op verlangen te tonen!"
+      },
+      {
+        "id": "NL-HvsHHKAP-009425",
+        "title": "De Razzia van Hilversum, monument voor dwangarbeiders",
+        "date": 1944,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir3/NL-HvsHHKAP-009425.png",
+        "license": "Schenking H. Sprong",
+        "location": {
+          "lat": 52.214373,
+          "lon": 5.190566
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "./collectie folder/Tump_NL-HvsHHKAP-009425.jpg",
+          "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-009425.jpg"
+        },
+        "include": true,
+        "description": "Monument voor de mannen en jongens uit Hilversum en omliggende plaatsen die tijdens de Tweede Wereldoorlog als dwangarbeiders naar Duitsland werden gestuurd. Veel van hen hebben het einde van de oorlog niet meer meegemaakt. Hilversum Sportpark. Razzia van Hilversum, Nederland"
+      },
+      {
+        "id": "NL-HvsHHKAP-011579",
+        "title": "Sportpark",
+        "date": 1928,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir14/NL-HvsHHKAP-006818.jpg",
+        "license": "Schenking H. Sprong",
+        "location": {
+          "lat": 52.214302,
+          "lon": 5.190802
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "./collectie folder/Temp_NL-HvsHHKAP-006818.jpg",
+          "thumbnailUrl": "./collectie folder/Temp_NL-HvsHHKAP-006818.jpg"
+        },
+        "include": true,
+        "description": "Sportpark. De oude atletiekbaan gebouwd door Dudok in 1928"
+      },
+      {
+        "id": "NL-HvsHHKAP-013155",
+        "title": "Utrechtseweg 71",
+        "date": 1950,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir10/NL-HvsHHKAP-013155.jpg",
+        "license": "Collectie Hilversum",
+        "location": {
+          "lat": 52.208767,
+          "lon": 5.181832
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg",
+          "thumbnailUrl": "https://i.pinimg.com/474x/73/4a/30/734a3047e53f631536afe0653e19d01b.jpg"
+        },
+        "include": true,
+        "description": "Utrechtseweg 71 in 1950, Villa de Wikke (1926) woonhuis van architect Dudok"
+      },
+      {
+        "id": "NL-HvsHHKAP-013033",
+        "title": "Geuzenweg 084 - Buurthuis 'De Geus'",
+        "date": 1986,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir10/NL-HvsHHKAP-013155.jpg",
+        "license": "Archief Gooi en Vechtstreek",
+        "location": {
+          "lat": 52.229361,
+          "lon": 5.183727
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+          "thumbnailUrl": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg"
+        },
+        "include": true,
+        "description": "Buurthuis 'De Geus' aan de Geuzenweg- voorheen School met de Bijbel in 1986"
+      },
+      {
+        "id": "NL-HvsHHKAP-013242",
+        "title": "Jonkerweg - 1897",
+        "date": 1897,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir11/NL-HvsHHKAP-013242.jpg",
+        "license": "HHK Albertus Perk",
+        "location": {
+          "lat": 52.228764,
+          "lon": 5.158617
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg",
+          "thumbnailUrl": "https://i.pinimg.com/474x/80/7a/8a/807a8a58dc6270500f448bc182ea0a21.jpg"
+        },
+        "include": true,
+        "description": "Straatnaam beschrijving van de Jonkerweg"
+      },
+      {
+        "id": "NL-HvsHHKAP-013224",
+        "title": "Graaf Florislaan 30a - Politieschool",
+        "date": 1930,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir11/NL-HvsHHKAP-013224.jpeg",
+        "license": "Archief Gooi en Vechtstreek",
+        "location": {
+          "lat": 52.231076,
+          "lon": 5.170911
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+          "thumbnailUrl": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg"
+        },
+        "include": true,
+        "description": "De Politieschool aan de Graaf Florislaan 30a in 1930. Nederlandse Model Politieschool. Les in EHBO"
+      }
+    ]
+  },
+  "originalFiles": {
+    "collectie folder/Temp.txt": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "collectie folder/Temp_NL-HvsHHKAP-006818.jpg": "2b831d03af6b86f27a989b43b04eb0dd57fb6c33583871de3c2788d7b54288c8",
+    "collectie folder/Tump_NL-HvsHHKAP-002421.jpg": "429801c6bd88936edfaabbcef0398f3ae0b7ba0c477efc13a3e026ceb510ca7c",
+    "collectie folder/Tump_NL-HvsHHKAP-009425.jpg": "8718a6c5a8fdb9cb2da1eb6477b514a875f67aaa798d0db4c845a750f19e66bb",
+    "collectie folder/Tump_NL-HvsHHKAP-011579.jpg": "d6082124995c9d815754b1a2f1225380fea314661007c781da65b3d7ff4ddc5b",
+    "collectie folder/Tump_NL-HvsHHKAP-012479.jpg": "3e6e52b8fc1fa19e762958387ffa601c5c9f0e43781ffd75984dc8a65062e7c9",
+    "collectie folder/Tump_NL-HvsHHKAP-012528.jpg": "d764d9d33c3a5e5eff320e4748ad93d189840de481d2dcf111b6c706a40f512f",
+    "collectie folder/Tump_NL-HvsHHKAP-012655.jpg": "e283b8b44cdb3af3a985feff1e93b6a6376979f92af0bcba1e88db25828c80a5",
+    "collection.json": "00c7e3b1b80ab3c01258f4cd4af41b2b838879598ccc8ddeea5ce6b340068ab3",
+    "mijn test map/test.txt": "a87452fbb91ae75e2428f2aa34303d005597c7e03298bc07fd9ca55ad5673303",
+    "README.md": "19521f67aa15587ed4abd81718f624fc7ff01b5cf601cb4d67a8b81a411aa198",
+    "source.json": "f74845a3618b5128bc63b4493908b75ffa4fcfaeec5401a1594b26c2f827e344"
+  },
+  "referenceFiles": {
+    "identity-map.json": "20ab256c022183ff7fb673b9f047351c1d3aaec8b3348a35f81f08e600e2cd85",
+    "migration-evidence.json": "4f9d0fbb43bc3fe1f47aa7cb46274ab7a2f6b35da4e7476ebc145014c2650de7",
+    "migration-report.txt": "97d94cced65bc15aef7278fb7c23fb13d46897ec9b216a76ef6c82927bce3c9c",
+    "org/collectie-hilversum/prenten/collection.json": "8ead8510329f84baca7506898114e0c6128db09a4c998db135ba9f8d7306e140",
+    "org/collectie-hilversum/source.json": "773a032111c0ef77b548f173fa23549b37b156588387a7dfb329676f4e57873a",
+    "org/dudok-architectuur-centrum/locaties/collection.json": "753b954a24131a763e04056b02f76ff0a61e9d61a5699fda4219037f0619da90",
+    "org/dudok-architectuur-centrum/source.json": "d0b6aa9e007e033077765bbffb593c429dec6c10856609fa1cdf0fbdcdbea481",
+    "validation.json": "217525d94fe1043ca7d9f46e989ebf29555ee1c3d980c5ddd53dcce87f11a78d"
+  },
+  "issues": [
+    {
+      "kind": "source-reference-alias",
+      "detail": "hhkapv1 resolves via ./collection.json to the hhkap1 document. One Collection retained; both legacy values preserved. Earlier four-record bobv1/bobv2 project notes are stale for this input."
+    },
+    {
+      "kind": "duplicate-id-reconciled",
+      "index": 6,
+      "detail": "Sportpark uses NL-HvsHHKAP-011579 in legacy id but NL-HvsHHKAP-006818 in both source URL and image filename. Semantic fragment uses the latter; original identifier remains unchanged."
+    },
+    {
+      "kind": "external-reference-review",
+      "index": 8,
+      "detail": "Geuzenweg NL-HvsHHKAP-013033 source points to NL-HvsHHKAP-013155 (Utrechtseweg). Retained verbatim; correct catalogue URL is not established."
+    },
+    {
+      "kind": "rights-attribution-review",
+      "detail": "All legacy license values are institution/donation labels, not established licences. Retained exactly inside legacy.record, without asserting publisher, creator, rights holder or image licence."
+    },
+    {
+      "kind": "source-title-preserved",
+      "detail": "Display name uses organizationName Albertus Perk. Original title Example source, curator and place/country fields remain in legacy.sourceMetadata; no publisher role inferred."
+    },
+    {
+      "kind": "legacy-editorial-fields",
+      "detail": "type=site, include=true and media.type=image remain in legacy.record; CreativeWork with ImageObject models descriptive records following Hilversum. All 11 included; empty tags retained as keywords."
+    },
+    {
+      "kind": "date-semantics",
+      "detail": "All numeric years become year-precision temporalCoverage. No image creation date or day precision inferred."
+    }
+  ],
+  "canonicalReader": {
+    "frontend": "C:/Productbuilder/repos/productbuilder/frontend/pb-frontend-monorepo",
+    "publicEntry": "src/tenants/opencollections/libs/lib-collections/src/index.js",
+    "profileSha256": "bf885249bf1de215000e87ac7f116e79b77700091794f2091a0f97a937081ad2",
+    "provenance": {
+      "repository": "productbuilder/pb-backend-monorepo",
+      "revision": "479fdd7f797e8fb0aa86b1e64de27444d898b691",
+      "root": "src/tenants/opencollections/governance/architecture/schema/v2",
+      "files": [
+        {
+          "path": "resources/source/2.0/context.jsonld",
+          "sha256": "15096dfc34272ed81ab863517a1ec7ca5037f0b00e7ba9ea90c2a76732a8a6f8"
+        },
+        {
+          "path": "resources/source/2.0/schema.json",
+          "sha256": "1fc73ebf8b7e97e4c23bd03eab15c6f54fc40c90c2e56fc60a67e48b7afef5a1"
+        },
+        {
+          "path": "examples/source.example.jsonld",
+          "sha256": "85e35103e88bd2b9479e0914f1fb3fcbbe44332e1a061f59c09fdc7b522ca5b5"
+        },
+        {
+          "path": "resources/collection/2.0/context.jsonld",
+          "sha256": "07b83394b8025ad37db5afc9567d2ebc9cbd1b8fb6b7236af775dd5c383997ce"
+        },
+        {
+          "path": "resources/collection/2.0/schema.json",
+          "sha256": "ca51b4a0b709e46c42abbdc11886490b5bf86fe7b83151a257bfc58f2245a493"
+        },
+        {
+          "path": "examples/collection.example.jsonld",
+          "sha256": "309cc64943ddd5d33d72e96b150bde52454d68ab34f616aab8b6fed9c7995f01"
+        }
+      ],
+      "revisionMeaning": "Backend HEAD at capture; schema/v2 files are untracked worktree input. Per-file hashes identify the actual canonical snapshot."
+    }
+  },
+  "generatorSha256": "4a8b9db026db92d7b156d3ad12384c36c7341a71cf273e30181afe0592e628e4",
+  "representativeComparisons": [
+    {
+      "index": 0,
+      "before": {
+        "id": "NL-HvsHHKAP-012655",
+        "title": "Duivenstraat - 11e woningbouwcomplex 1927-1928",
+        "date": 1950,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012655.jpeg",
+        "license": "Archief Gooi en Vechtstreek",
+        "location": {
+          "lat": 52.22419,
+          "lon": 5.195395
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "./collectie folder/Tump_NL-HvsHHKAP-012655.jpg",
+          "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-012655.jpg"
+        },
+        "include": true,
+        "description": "De Duivenstraat in 1950. 11e woningbouwcomplex 1927-1928 door architect Dudok. Op de achtergrond de Nassauschool aan de Merelstraat."
+      },
+      "after": {
+        "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-012655",
+        "@type": "CreativeWork",
+        "identifier": "NL-HvsHHKAP-012655",
+        "name": "Duivenstraat - 11e woningbouwcomplex 1927-1928",
+        "description": "De Duivenstraat in 1950. 11e woningbouwcomplex 1927-1928 door architect Dudok. Op de achtergrond de Nassauschool aan de Merelstraat.",
+        "temporalCoverage": "1950",
+        "keywords": [],
+        "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012655.jpeg",
+        "isBasedOn": {
+          "@type": "CreativeWork",
+          "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012655.jpeg"
+        },
+        "contentLocation": {
+          "@type": "Place",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 52.22419,
+            "longitude": 5.195395
+          }
+        },
+        "image": {
+          "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-012655-image",
+          "@type": "ImageObject",
+          "contentUrl": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-012655.jpg",
+          "thumbnailUrl": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-012655.jpg"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "propertyID": "legacy.record",
+            "value": "{\"id\":\"NL-HvsHHKAP-012655\",\"title\":\"Duivenstraat - 11e woningbouwcomplex 1927-1928\",\"date\":1950,\"type\":\"site\",\"source\":\"https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir9/NL-HvsHHKAP-012655.jpeg\",\"license\":\"Archief Gooi en Vechtstreek\",\"location\":{\"lat\":52.22419,\"lon\":5.195395},\"tags\":[],\"media\":{\"type\":\"image\",\"url\":\"./collectie folder/Tump_NL-HvsHHKAP-012655.jpg\",\"thumbnailUrl\":\"./collectie folder/Tump_NL-HvsHHKAP-012655.jpg\"},\"include\":true,\"description\":\"De Duivenstraat in 1950. 11e woningbouwcomplex 1927-1928 door architect Dudok. Op de achtergrond de Nassauschool aan de Merelstraat.\"}"
+          }
+        ]
+      }
+    },
+    {
+      "index": 4,
+      "before": {
+        "id": "NL-HvsHHKAP-011579",
+        "title": "Dudokpark 1 - Bezichtiging Raadhuis - toegangskaartjes",
+        "date": 1957,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir7/NL-HvsHHKAP-011579.jpg",
+        "license": "Schenking H. Sprong",
+        "location": {
+          "lat": 52.229378,
+          "lon": 5.169801
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "./collectie folder/Tump_NL-HvsHHKAP-011579.jpg",
+          "thumbnailUrl": "./collectie folder/Tump_NL-HvsHHKAP-011579.jpg"
+        },
+        "include": true,
+        "description": "Setje van 5 toegangskaartjes voor het bezichtigen van het raadhuis. Soms met en soms zonder toren. Verschillende prijzen die waarschijnlijk aantonen dat de kaartjes meerdere jaren beslaan. En voor verschillende doelgroepen zoals scholieren en gezelschappen. Op verlangen te tonen!"
+      },
+      "after": {
+        "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-011579",
+        "@type": "CreativeWork",
+        "identifier": "NL-HvsHHKAP-011579",
+        "name": "Dudokpark 1 - Bezichtiging Raadhuis - toegangskaartjes",
+        "description": "Setje van 5 toegangskaartjes voor het bezichtigen van het raadhuis. Soms met en soms zonder toren. Verschillende prijzen die waarschijnlijk aantonen dat de kaartjes meerdere jaren beslaan. En voor verschillende doelgroepen zoals scholieren en gezelschappen. Op verlangen te tonen!",
+        "temporalCoverage": "1957",
+        "keywords": [],
+        "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir7/NL-HvsHHKAP-011579.jpg",
+        "isBasedOn": {
+          "@type": "CreativeWork",
+          "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir7/NL-HvsHHKAP-011579.jpg"
+        },
+        "contentLocation": {
+          "@type": "Place",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 52.229378,
+            "longitude": 5.169801
+          }
+        },
+        "image": {
+          "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-011579-image",
+          "@type": "ImageObject",
+          "contentUrl": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-011579.jpg",
+          "thumbnailUrl": "../../../../collectie%20folder/Tump_NL-HvsHHKAP-011579.jpg"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "propertyID": "legacy.record",
+            "value": "{\"id\":\"NL-HvsHHKAP-011579\",\"title\":\"Dudokpark 1 - Bezichtiging Raadhuis - toegangskaartjes\",\"date\":1957,\"type\":\"site\",\"source\":\"https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir7/NL-HvsHHKAP-011579.jpg\",\"license\":\"Schenking H. Sprong\",\"location\":{\"lat\":52.229378,\"lon\":5.169801},\"tags\":[],\"media\":{\"type\":\"image\",\"url\":\"./collectie folder/Tump_NL-HvsHHKAP-011579.jpg\",\"thumbnailUrl\":\"./collectie folder/Tump_NL-HvsHHKAP-011579.jpg\"},\"include\":true,\"description\":\"Setje van 5 toegangskaartjes voor het bezichtigen van het raadhuis. Soms met en soms zonder toren. Verschillende prijzen die waarschijnlijk aantonen dat de kaartjes meerdere jaren beslaan. En voor verschillende doelgroepen zoals scholieren en gezelschappen. Op verlangen te tonen!\"}"
+          }
+        ]
+      }
+    },
+    {
+      "index": 6,
+      "before": {
+        "id": "NL-HvsHHKAP-011579",
+        "title": "Sportpark",
+        "date": 1928,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir14/NL-HvsHHKAP-006818.jpg",
+        "license": "Schenking H. Sprong",
+        "location": {
+          "lat": 52.214302,
+          "lon": 5.190802
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "./collectie folder/Temp_NL-HvsHHKAP-006818.jpg",
+          "thumbnailUrl": "./collectie folder/Temp_NL-HvsHHKAP-006818.jpg"
+        },
+        "include": true,
+        "description": "Sportpark. De oude atletiekbaan gebouwd door Dudok in 1928"
+      },
+      "after": {
+        "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-006818",
+        "@type": "CreativeWork",
+        "identifier": "NL-HvsHHKAP-011579",
+        "name": "Sportpark",
+        "description": "Sportpark. De oude atletiekbaan gebouwd door Dudok in 1928",
+        "temporalCoverage": "1928",
+        "keywords": [],
+        "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir14/NL-HvsHHKAP-006818.jpg",
+        "isBasedOn": {
+          "@type": "CreativeWork",
+          "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir14/NL-HvsHHKAP-006818.jpg"
+        },
+        "contentLocation": {
+          "@type": "Place",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 52.214302,
+            "longitude": 5.190802
+          }
+        },
+        "image": {
+          "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-006818-image",
+          "@type": "ImageObject",
+          "contentUrl": "../../../../collectie%20folder/Temp_NL-HvsHHKAP-006818.jpg",
+          "thumbnailUrl": "../../../../collectie%20folder/Temp_NL-HvsHHKAP-006818.jpg"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "propertyID": "legacy.record",
+            "value": "{\"id\":\"NL-HvsHHKAP-011579\",\"title\":\"Sportpark\",\"date\":1928,\"type\":\"site\",\"source\":\"https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir14/NL-HvsHHKAP-006818.jpg\",\"license\":\"Schenking H. Sprong\",\"location\":{\"lat\":52.214302,\"lon\":5.190802},\"tags\":[],\"media\":{\"type\":\"image\",\"url\":\"./collectie folder/Temp_NL-HvsHHKAP-006818.jpg\",\"thumbnailUrl\":\"./collectie folder/Temp_NL-HvsHHKAP-006818.jpg\"},\"include\":true,\"description\":\"Sportpark. De oude atletiekbaan gebouwd door Dudok in 1928\"}"
+          }
+        ]
+      }
+    },
+    {
+      "index": 8,
+      "before": {
+        "id": "NL-HvsHHKAP-013033",
+        "title": "Geuzenweg 084 - Buurthuis 'De Geus'",
+        "date": 1986,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir10/NL-HvsHHKAP-013155.jpg",
+        "license": "Archief Gooi en Vechtstreek",
+        "location": {
+          "lat": 52.229361,
+          "lon": 5.183727
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+          "thumbnailUrl": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg"
+        },
+        "include": true,
+        "description": "Buurthuis 'De Geus' aan de Geuzenweg- voorheen School met de Bijbel in 1986"
+      },
+      "after": {
+        "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013033",
+        "@type": "CreativeWork",
+        "identifier": "NL-HvsHHKAP-013033",
+        "name": "Geuzenweg 084 - Buurthuis 'De Geus'",
+        "description": "Buurthuis 'De Geus' aan de Geuzenweg- voorheen School met de Bijbel in 1986",
+        "temporalCoverage": "1986",
+        "keywords": [],
+        "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir10/NL-HvsHHKAP-013155.jpg",
+        "isBasedOn": {
+          "@type": "CreativeWork",
+          "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir10/NL-HvsHHKAP-013155.jpg"
+        },
+        "contentLocation": {
+          "@type": "Place",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 52.229361,
+            "longitude": 5.183727
+          }
+        },
+        "image": {
+          "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013033-image",
+          "@type": "ImageObject",
+          "contentUrl": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg",
+          "thumbnailUrl": "https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "propertyID": "legacy.record",
+            "value": "{\"id\":\"NL-HvsHHKAP-013033\",\"title\":\"Geuzenweg 084 - Buurthuis 'De Geus'\",\"date\":1986,\"type\":\"site\",\"source\":\"https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir10/NL-HvsHHKAP-013155.jpg\",\"license\":\"Archief Gooi en Vechtstreek\",\"location\":{\"lat\":52.229361,\"lon\":5.183727},\"tags\":[],\"media\":{\"type\":\"image\",\"url\":\"https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg\",\"thumbnailUrl\":\"https://i.pinimg.com/474x/f9/f9/4f/f9f94f40fe7af6819d9311e8d8a70d67.jpg\"},\"include\":true,\"description\":\"Buurthuis 'De Geus' aan de Geuzenweg- voorheen School met de Bijbel in 1986\"}"
+          }
+        ]
+      }
+    },
+    {
+      "index": 10,
+      "before": {
+        "id": "NL-HvsHHKAP-013224",
+        "title": "Graaf Florislaan 30a - Politieschool",
+        "date": 1930,
+        "type": "site",
+        "source": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir11/NL-HvsHHKAP-013224.jpeg",
+        "license": "Archief Gooi en Vechtstreek",
+        "location": {
+          "lat": 52.231076,
+          "lon": 5.170911
+        },
+        "tags": [],
+        "media": {
+          "type": "image",
+          "url": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+          "thumbnailUrl": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg"
+        },
+        "include": true,
+        "description": "De Politieschool aan de Graaf Florislaan 30a in 1930. Nederlandse Model Politieschool. Les in EHBO"
+      },
+      "after": {
+        "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013224",
+        "@type": "CreativeWork",
+        "identifier": "NL-HvsHHKAP-013224",
+        "name": "Graaf Florislaan 30a - Politieschool",
+        "description": "De Politieschool aan de Graaf Florislaan 30a in 1930. Nederlandse Model Politieschool. Les in EHBO",
+        "temporalCoverage": "1930",
+        "keywords": [],
+        "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir11/NL-HvsHHKAP-013224.jpeg",
+        "isBasedOn": {
+          "@type": "CreativeWork",
+          "url": "https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir11/NL-HvsHHKAP-013224.jpeg"
+        },
+        "contentLocation": {
+          "@type": "Place",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 52.231076,
+            "longitude": 5.170911
+          }
+        },
+        "image": {
+          "@id": "https://raw.githubusercontent.com/sunnywood2000/Albertus-Perk-HTM/main/collection.json#NL-HvsHHKAP-013224-image",
+          "@type": "ImageObject",
+          "contentUrl": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg",
+          "thumbnailUrl": "https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "propertyID": "legacy.record",
+            "value": "{\"id\":\"NL-HvsHHKAP-013224\",\"title\":\"Graaf Florislaan 30a - Politieschool\",\"date\":1930,\"type\":\"site\",\"source\":\"https://hhkap.collectiebank.nl/portaal/start/collecties?view=preview&fuid=HHKAP/dir11/NL-HvsHHKAP-013224.jpeg\",\"license\":\"Archief Gooi en Vechtstreek\",\"location\":{\"lat\":52.231076,\"lon\":5.170911},\"tags\":[],\"media\":{\"type\":\"image\",\"url\":\"https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg\",\"thumbnailUrl\":\"https://i.pinimg.com/474x/cf/91/5a/cf915abed1aef4c748c952b0c158bdc4.jpg\"},\"include\":true,\"description\":\"De Politieschool aan de Graaf Florislaan 30a in 1930. Nederlandse Model Politieschool. Les in EHBO\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
